@@ -634,12 +634,12 @@ tbody tr:hover td {
     padding:15px;
   }
 }
-    font-size:1.5rem;
+   nav{
+  font-size:1.5rem;
+  gap:15px;
+}
+    
   
-
-  nav{
-    gap:15px;
-  }
 
   .hero h2{
     font-size:2rem;
